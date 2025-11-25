@@ -69,3 +69,7 @@ plt.savefig("results/daily_counts.png")
 plt.close()
 
 print("EDA Complete! Check the 'results/' folder.")
+print(df["publisher"].head())
+print(df["date"].head())
+print(publisher_counts)
+print(daily_counts)
