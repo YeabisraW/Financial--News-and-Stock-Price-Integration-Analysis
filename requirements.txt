@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+nltk
+scikit-learn
+wordcloud
+TA-Lib
+pynance
